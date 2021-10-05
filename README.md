@@ -1,0 +1,5 @@
+- 👋 Hi, I’m kommoddo
+- 👀 I’m interested in life and coding 
+- 🌱 I’m currently learning Frontend and focusing to become a developer
+- 💞️ I’m looking to collaborate on different projects and make new friends
+- 📫 How to reach me - fb.com/oleg.soroka
